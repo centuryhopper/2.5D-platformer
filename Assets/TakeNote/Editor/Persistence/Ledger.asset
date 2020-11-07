@@ -33,5 +33,19 @@ MonoBehaviour:
     IsDeferred: 0
     IsColored: 1
     DrawColor: {r: 1, g: 0.72122186, b: 0.2971698, a: 1}
+  - Title: TODOs
+    CreationDate: 11/6/2020 | 11:24 PM
+    CompletionDate: 
+    HasDetails: 1
+    Details: '-WhiteBoxing
+
+      -Add falling animations (when the player is idle
+      and walking)
+
+      -Change character to jammo character'
+    IsCompleted: 0
+    IsDeferred: 0
+    IsColored: 1
+    DrawColor: {r: 0.990566, g: 0.37875926, b: 0, a: 1}
   CompletedTasks: []
   DeferredTasks: []
